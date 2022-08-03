@@ -7,7 +7,7 @@
 
 - [ ] Write Lua script to access relevant boss, player, and state data using Cheat Engine in real time (while game executable is running).
 
-- [ ] Save extracted game data as relevant data structures accessible via Python.
+- [ ] Save extracted game data as appropriate data structure(s) accessible via Python modeling.
 
 - [ ] Write Python script to process game data and produce dummy instructional commands to be received by Cheat Engine.
 
